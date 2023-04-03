@@ -35,12 +35,6 @@
     background-color: rgba(217, 0, 98, 1);
 }
 
-/*     SECCION MAIN     */
-.main-bg-gradient-blue-green {
-    background-color: rgb(83, 184, 152);
-    background-image: linear-gradient(rgba(28, 118, 173, 0.92), rgba(83, 184, 152, 1));
-}
-
 /*      CONTAINER CARDS     */
 .bg-card-main {
     background-color: rgb(80, 20, 100);
@@ -74,6 +68,13 @@ p a:hover {
 
 .bg-color-main {
     rgba(245, 245, 245, 0.75);
+}
+
+/*      LOGIN INDEX     */
+
+.btn-Login {
+    background-color: rgb(20, 25, 45);
+    color: white;
 }
 
 /*      MEDIA QUERIES Mobile First Default Bootstrap
