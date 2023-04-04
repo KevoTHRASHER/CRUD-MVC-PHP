@@ -7,5 +7,4 @@ $rutas = new RutasControlador();
 $rutas -> plantillaVistas();
 
 
-
 ?>
