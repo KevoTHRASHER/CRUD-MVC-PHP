@@ -35,47 +35,19 @@
     background-color: rgba(217, 0, 98, 1);
 }
 
-/*      CONTAINER CARDS     */
-.bg-card-main {
-    background-color: rgb(80, 20, 100);
-}
-
-/*      FOOTER      */
-.footer-bg-color {
-    background-color: rgb(20, 25, 45);
-}
-
-footer i.bi {
-    color: rgba(80, 158, 227, 1);
-}
-
-footer i.bi:hover {
-    color: rgba(217, 0, 98, 1);
-}
-
-/*      COMENCEMOS PAGE         */
-span {
-    color: rgba(217, 0, 98, 1);
-}
-
-p a {
-    color: rgb(80, 157, 227);
-}
-
-p a:hover {
-    color: rgba(217, 0, 98, 1);
-}
-
-.bg-color-main {
-    rgba(245, 245, 245, 0.75);
-}
-
 /*      LOGIN INDEX     */
 
 .btn-Login {
     background-color: rgb(20, 25, 45);
     color: white;
 }
+
+.btn-Login:hover {
+    background-color: rgba(217, 0, 98, 1);
+    color: white;
+
+}
+
 
 /*      MEDIA QUERIES Mobile First Default Bootstrap
 
