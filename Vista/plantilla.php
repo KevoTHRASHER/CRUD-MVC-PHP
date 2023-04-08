@@ -1,5 +1,11 @@
 <?php require('modulos/head.php'); ?>
 <?php require('modulos/nav.php'); ?>
+<?php
+
+$rutas = new RutasControlador();
+$rutas -> Rutas()
+
+?>
     <br/>
     <div class="container-sm justify-content-center align-items-center text-center">
         <div class="row">
