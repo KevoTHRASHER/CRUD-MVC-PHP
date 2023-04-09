@@ -1,7 +1,7 @@
     <div class="container-sm justify-content-center align-items-center text-center">
         <div class="row">
-            <div class="col-md-4"></div>
-            <div class="col-md-4">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
                 <h2 class="fw-bold ">Registro Empleado</h2>
                 <form class="mb-3" action="" method="POST">
                     <div class="mb-3">
@@ -24,6 +24,6 @@
                     </div>
                 </form>
             </div>
-            <div class="col-md-4"></div>
+            <div class="col-md-3"></div>
         </div>
     </div>
